@@ -1,0 +1,83 @@
+body{
+    
+    background-image:linear-gradient( to right,#1d98cb,#6c4791);
+    text-align: left;
+    font-family:'Montsrrat', sans-serif ;
+}
+
+
+h1{
+    margin: 20px;
+    padding: 10px;
+    color: rgb(223, 223, 215);
+    
+}
+h4{
+    color: #6c4791;
+    
+
+}   
+h3{
+display: inline;
+color: #6c4791;
+}
+img{
+    width:10% ;
+    float: left;
+    clear: left;
+    margin: 20px;
+    
+}
+p{ 
+    width:20% ;
+display: inline;  line-height:1.5;
+}
+
+
+.first{
+    background-color: beige;
+    border-radius:20px ;  
+     margin-top: 50px; position: relative;
+}
+.card
+{ margin: 10px;
+    padding: 10px;
+    background-color: rgb(235, 232, 235);
+border-radius: 5px;
+}
+.top-container{
+    height: 50%;
+    margin: 20px;
+    padding:10px ; display: inline;
+}
+.container{
+   background-color:#dbc0f5 ;  margin: 10px;
+   height: 50%; 
+   padding:10px ;
+}
+.btn {
+    background: #6c4791;
+    background-image: -webkit-linear-gradient(top, #6c4791, #6e186e);
+    background-image: -moz-linear-gradient(top, #6c4791, #6e186e);
+    background-image: -ms-linear-gradient(top, #6c4791, #6e186e);
+    background-image: -o-linear-gradient(top, #6c4791, #6e186e);
+    background-image: linear-gradient(to bottom, #6c4791, #6e186e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none; float: right;
+  }
+  
+  .btn:hover {
+    background: #6c4791;
+    background-image: -webkit-linear-gradient(top, #6c4791, #6c4791);
+    background-image: -moz-linear-gradient(top, #6c4791, #6c4791);
+    background-image: -ms-linear-gradient(top, #6c4791, #6c4791);
+    background-image: -o-linear-gradient(top, #6c4791, #6c4791);
+    background-image: linear-gradient(to bottom, #6c4791, #6c4791);
+    text-decoration: none;
+  }
